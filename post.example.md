@@ -1,11 +1,11 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'Project'
 date: 2016-02-20 15:56:00
 categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+tags: Tech1 Tech2
+# featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'http://github.com/jamigibbs/weathercast'
 button_icon: 'github'
 button_text: 'Visit Project'
