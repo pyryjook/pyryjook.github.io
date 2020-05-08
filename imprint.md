@@ -8,7 +8,7 @@ permalink: /impressum/
 
 Softwareentwickler; Konzeption, Modellierung & Realisierung von Websystemen und Systemsoftware.
 
-Danzigerstrße 63, 10435 Berlin, Deutchland
+Danziger Straße 63, 10435 Berlin, Deutschland
 
 **Fon:** +49 176 87842715‬
 
